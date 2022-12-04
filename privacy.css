@@ -1,0 +1,14 @@
+*{
+    font-family: sans-serif;
+    margin: 3px;; padding: 3px;;
+    box-sizing: border-box;
+    outline: aqua; border: aqua;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition:all .2s linear;
+    transition:width none;
+}
+
+h1{
+    font: bold;
+}
